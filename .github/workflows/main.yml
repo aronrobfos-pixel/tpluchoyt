@@ -2,7 +2,7 @@ name: Publicar Short en YouTube
  
 on:
   schedule:
-    - cron: "4 13 * * *"
+    - cron: "8 13 * * *"
   workflow_dispatch: {}
  
 jobs:
