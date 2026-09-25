@@ -1,0 +1,18 @@
+# Credenciales — NUNCA deben subirse al repo
+client_secret.json
+token.json
+credentials.json
+*.json.bak
+
+# Salida generada localmente (videos, audio, metadata)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
